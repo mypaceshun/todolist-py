@@ -33,8 +33,8 @@ $ todolist-py add [-d limit-day] [-p priority] task-title
 ```
 ### 実行結果
 MongoDBに以下のデータが格納される
-DBのスキーマ|格納されるデータ|メモ
 
+DBのスキーマ|格納されるデータ|メモ
 :-:|:-:|:-:
 id|タスクのid|primary key
 title|タスクのタイトル|not null
